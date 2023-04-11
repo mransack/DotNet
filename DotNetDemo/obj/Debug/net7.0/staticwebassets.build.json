@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YEvsQtcKqqGylpMcG5MSnv3kn2wv7Kkx5SM48zLh9wE=",
+  "Source": "DotNetDemo",
+  "BasePath": "_content/DotNetDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
