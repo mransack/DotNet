@@ -3,4 +3,11 @@ using Learning;
 
 Console.WriteLine("Welcome to Positivity!");
 
-new Delegates().TestMethod();
+//1. Test Delegates
+//new Delegates().TestMethod();
+
+//2. Test WeakReference
+//new WeakReferenceUnderstand().test();
+
+//3. DotEvents
+DotEvents.DemoCustomEvents();
