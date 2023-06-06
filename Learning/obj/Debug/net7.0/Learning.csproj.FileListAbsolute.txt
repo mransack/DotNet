@@ -1,0 +1,15 @@
+C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Learning.exe
+C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Learning.deps.json
+C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Learning.runtimeconfig.json
+C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Learning.dll
+C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Learning.pdb
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.csproj.AssemblyReference.cache
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.AssemblyInfoInputs.cache
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.AssemblyInfo.cs
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.csproj.CoreCompileInputs.cache
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.dll
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\refint\Learning.dll
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.pdb
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.genruntimeconfig.cache
+C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\ref\Learning.dll
