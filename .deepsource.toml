@@ -5,3 +5,8 @@ name = "csharp"
 
 [[analyzers]]
 name = "test-coverage"
+
+[[transformers]]
+name = "dotnet-format"
+enabled = true
+
