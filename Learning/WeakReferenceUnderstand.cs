@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Learning
+﻿namespace Learning
 {
     public class WeakReferenceUnderstand
     {
@@ -15,11 +9,11 @@ namespace Learning
         public delegate int SumDelegate(int a, int b);
 
         internal void test()
-        { 
+        {
             Initialize();
             TestWeaKReference();
             GC.Collect(); //When the above Function's scope get finish the GC collects the object and clear the memory
-            Console.WriteLine("Final:"+_weakReference.IsAlive);
+            Console.WriteLine("Final:" + _weakReference.IsAlive);
         }
         public void TestWeaKReference()
         {
@@ -50,6 +44,6 @@ namespace Learning
     }
     //public class Delagates
     //{
-        
+
     //}
 }

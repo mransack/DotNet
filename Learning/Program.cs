@@ -10,4 +10,18 @@ Console.WriteLine("Welcome to Positivity!");
 //new WeakReferenceUnderstand().test();
 
 //3. DotEvents
-DotEvents.DemoCustomEvents();
+//DotEvents.DemoCustomEvents();
+
+//4. Async Await
+//await AsyncAwait.TestAsyncAwait();
+
+//5. Inheritence //Hiding
+//Parent parent = new Parent();
+//parent.Print();
+
+//Child child = new Child();
+//child.Print();
+
+//Parent child1 = new Child();
+//child1.Print();
+
