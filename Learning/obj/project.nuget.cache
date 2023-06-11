@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FNEc2g9hFa+wXwf4o5IeAfbnaDNJi+gaceEN6Ed3+6crMPHBlCoNkga5yVCPD1ntkBfrili3gI7uhjIOKUtY/A==",
+  "dgSpecHash": "3327U8Ii/6ldfhoiVprCY/TXE5sTn/QbkWkttb1lHrAZvxIx1978LcO+Xlir/jgZxTEeE1q8kCqpIv9vgf/ZXQ==",
   "success": true,
   "projectFilePath": "C:\\Masud\\GitHub\\DotNet\\Learning\\Learning.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

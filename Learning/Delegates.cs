@@ -15,7 +15,7 @@ namespace Learning
             Console.WriteLine("Learning Delegates");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("'Delegate' is a type-safe method pointer");
-            Console.WriteLine("'Delegation and actual method declareation should be same");
+            Console.WriteLine("'Delegation and actual method signature should be same");
             Console.ForegroundColor = ConsoleColor.White;
         }
         public void TestMethod()
