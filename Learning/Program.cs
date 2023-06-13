@@ -57,6 +57,10 @@ logger.LogInformation("Example log message");
 //new PrimeClass().IsPrime(9);
 
 //9. HashSet Example
-HashSetExample.CountUniqueCharatersWithDictionary("aaabbcc");
+//HashSetExample.CountUniqueCharatersWithDictionary("aaabbcc");
 //HashSetExample.CountUniqueCharactersPresence("Masud");
-HashSetExample.CountUniqueCharatersWithDictionary("Masud");
+//HashSetExample.CountUniqueCharatersWithDictionary("Masud");
+
+
+//10. Tuple
+TupleLearn.DesignTupple();
