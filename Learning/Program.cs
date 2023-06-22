@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Learning;
 using Microsoft.Extensions.Logging;
+using System.Collections;
 
 Console.WriteLine("Welcome to Positivity!");
 
@@ -31,11 +32,15 @@ logger.LogInformation("Example log message");
 //Parent parent = new Parent();
 //parent.Print();
 
-//Child child = new Child();
-//child.Print();
+Child child = new Child();
+child.Print();
+child.Print(123);
+child.protectedMethodTest();
 
 //Parent child1 = new Child();
 //child1.Print();
+
+
 
 //6. IDisposable
 //FileHandler handler = new FileHandler("Testing new File");
@@ -60,7 +65,19 @@ logger.LogInformation("Example log message");
 //HashSetExample.CountUniqueCharatersWithDictionary("aaabbcc");
 //HashSetExample.CountUniqueCharactersPresence("Masud");
 //HashSetExample.CountUniqueCharatersWithDictionary("Masud");
+//HashSetExample.CountUniqueCharacters("aaabbcc");
 
 
 //10. Tuple
-TupleLearn.DesignTupple();
+//TupleLearn.DesignTupple();
+
+
+//11. Channel
+//await ChannelsExample.DemoChannel();
+
+//12. Unsafe pointer
+//new PointerWithUnsafe().DemoUnsafe();
+
+//13. Polimorphism
+//new Polimorphism().DemoPoliMorphism();
+

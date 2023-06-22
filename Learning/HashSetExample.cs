@@ -10,7 +10,7 @@ namespace Learning
     public class HashSetExample
     {
         public static void CountUniqueCharacters(string input)
-        { 
+        {
             Console.WriteLine(input);
             HashSet<char> set = new HashSet<char>();
             int count = 0;
@@ -23,6 +23,14 @@ namespace Learning
                 }
             }
             Console.WriteLine(" " + count);
+
+            var linq = input.Distinct().ToList();
+            foreach (char c in linq)
+            {
+                Console.Write("{0}", c);
+            }
+            Console.WriteLine("");
+            Console.WriteLine("Total count:{0}", linq.Count());
         }
         public record class Sample(char Ch, int count);
 
@@ -47,7 +55,9 @@ namespace Learning
             { 
                 Console.WriteLine("{0}: {1}", item.Key, item.Value);
             }
-        }
+
+            
+            }
 
         public static void CountUniqueCharatersWithDictionary(string input)
         { 
@@ -79,4 +89,5 @@ namespace Learning
             res.ForEach(x => Console.WriteLine("{0}: {1}", x.A , x.V));
         }
     }
+
 }
