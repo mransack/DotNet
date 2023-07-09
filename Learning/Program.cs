@@ -32,10 +32,10 @@ logger.LogInformation("Example log message");
 //Parent parent = new Parent();
 //parent.Print();
 
-Child child = new Child();
-child.Print();
-child.Print(123);
-child.protectedMethodTest();
+//Child child = new Child();
+//child.Print();
+//child.Print(123);
+//child.protectedMethodTest();
 
 //Parent child1 = new Child();
 //child1.Print();
@@ -81,3 +81,11 @@ child.protectedMethodTest();
 //13. Polimorphism
 //new Polimorphism().DemoPoliMorphism();
 
+//14. AutoMapper
+//AutoMapper2.TestAutoMapper();
+
+//15. Classes
+//new NonstaticChildClass().testmethod() ;
+
+//16. ExpressionTree
+new ExpressionTree().DemoExpression();

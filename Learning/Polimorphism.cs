@@ -55,7 +55,7 @@ namespace Learning
     {
         public override void GetInfo()
         {
-            Console.WriteLine($"Need to print: {AccountNumber}");
+            Console.WriteLine($"Need to print: {AccountNumber}, {typeof(CheckAccount)}");
         }
     }
     #endregion
@@ -64,8 +64,11 @@ namespace Learning
     {
         public void DemoPoliMorphism() {
             
-            DemoPoliMorphismThroughInterface();
-            DemoPolimorphismViaAbstract();
+            //DemoPoliMorphismThroughInterface();
+            //DemoPolimorphismViaAbstract();
+
+            Account accnt = new CheckAccount();
+            accnt.GetInfo();
         }
         private void DemoPoliMorphismThroughInterface() 
         {

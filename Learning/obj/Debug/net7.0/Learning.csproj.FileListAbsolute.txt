@@ -20,3 +20,4 @@ C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Ab
 C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\Masud\GitHub\DotNet\Learning\obj\Debug\net7.0\Learning.csproj.CopyComplete
+C:\Masud\GitHub\DotNet\Learning\bin\Debug\net7.0\AutoMapper.dll

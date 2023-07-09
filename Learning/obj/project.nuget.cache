@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3327U8Ii/6ldfhoiVprCY/TXE5sTn/QbkWkttb1lHrAZvxIx1978LcO+Xlir/jgZxTEeE1q8kCqpIv9vgf/ZXQ==",
+  "dgSpecHash": "fBXVQQdMZDVQ/5ga/8R9AK431ae+89jgj/PQvr4FarDCj5+P3X1e6w/JPPxo1AP1IdKxZm6kJ45MN6iwW4rRXA==",
   "success": true,
   "projectFilePath": "C:\\Masud\\GitHub\\DotNet\\Learning\\Learning.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Masud\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Masud\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Masud\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
